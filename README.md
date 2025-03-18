@@ -5,3 +5,6 @@
 * [學科術語臺灣台語/臺灣客語對譯查詢](https://stti.moe.edu.tw/)
   *  [學科術語臺灣台語對譯查詢](https://stti.moe.edu.tw/?lang=sutgi)
   *  [學科術語臺灣客語對譯查詢](https://stti.moe.edu.tw/?lang=sudngi)
+ 
+    
+[[A]]
