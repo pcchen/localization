@@ -8,3 +8,5 @@
  
     
 [[A]]
+
+ [Link Text](WikiPageURL)
